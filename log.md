@@ -30,3 +30,12 @@
 **Today's Progress**: Learned about Randomisation and Python Lists
 
 **Link to work:** [Rock Paper Scissor Game](https://repl.it/@seshaihari/rock-paper-scissors-start#main.py)
+
+
+## Day 5: December 7, 2020
+
+
+**Today's Progress**: Learned about For loop, Range and Code Blocks
+
+**Link to work:** [Password Generator](https://repl.it/@seshaihari/password-generator-start#main.py)
+
