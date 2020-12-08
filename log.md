@@ -40,7 +40,7 @@
 **Link to work:** [Password Generator](https://repl.it/@seshaihari/password-generator-start#main.py)
 
 
- Day 6: December 8, 2020
+## Day 6: December 8, 2020
 
 
 **Today's Progress**: Learned about Functions, Global Scopes, While Loop
