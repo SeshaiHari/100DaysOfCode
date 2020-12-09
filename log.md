@@ -47,3 +47,11 @@
 
 **Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
+
+## Day 7: December 9, 2020
+
+
+**Today's Progress**: Hangman Game in the terminal using Basic Python
+
+**Link to work:** [Hangman Game](https://repl.it/@seshaihari/Day-7-Hangman-5-Start#main.py)
+
