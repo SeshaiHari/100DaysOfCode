@@ -56,11 +56,18 @@
 **Link to work:** [Hangman Game](https://repl.it/@seshaihari/Day-7-Hangman-5-Start#main.py)
 
 
-
 ## Day 8: December 10, 2020
 
 
 **Today's Progress**: Function with input parameters, Caesar Cipher Game in the CLI using Python Basics
 
 **Link to work:** [Caesar Cipher](https://repl.it/@seshaihari/caesar-cipher-4-start#main.py)
+
+
+## Day 9: December 11, 2020
+
+
+**Today's Progress**: Dictionaries & Nesting, Auction Game using Dictionaries
+
+**Link to work:** [Auction Game](https://repl.it/@seshaihari/blind-auction-start#main.py)
 
