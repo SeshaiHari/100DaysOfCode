@@ -71,3 +71,11 @@
 
 **Link to work:** [Auction Game](https://repl.it/@seshaihari/blind-auction-start#main.py)
 
+
+## Day 10: December 12, 2020
+
+
+**Today's Progress**: Learned about Docstrings, Flags and Recursions, Calculator Program in CLI
+
+**Link to work:** [Calculator](https://repl.it/@seshaihari/calculator-start-1#main.py)
+
