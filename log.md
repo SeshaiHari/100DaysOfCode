@@ -80,10 +80,17 @@
 **Link to work:** [Calculator](https://repl.it/@seshaihari/calculator-start-1#main.py)
 
 
-
 ## Day 11: December 13, 2020
 
 
 **Today's Progress**: Created a Blackjack Game in CLI
 
 **Link to work:** [Blackjack Game](https://repl.it/@seshaihari/blackjack-start#main.py)
+
+
+## Day 12: December 14, 2020
+
+
+**Today's Progress**: Namespaces: Local vs Global Scope, Block Scope, Number Guessing Game in CLI
+
+**Link to work:** [Number Guessing Game](https://repl.it/@seshaihari/guess-the-number-game#main.py)
