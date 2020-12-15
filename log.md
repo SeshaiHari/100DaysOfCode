@@ -94,3 +94,10 @@
 **Today's Progress**: Namespaces: Local vs Global Scope, Block Scope, Number Guessing Game in CLI
 
 **Link to work:** [Number Guessing Game](https://repl.it/@seshaihari/guess-the-number-game#main.py)
+
+
+## Day 13: December 15, 2020
+
+
+**Today's Progress**: Debugging Errors, Code Refactoring, Using the Debugger
+
