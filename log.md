@@ -101,3 +101,11 @@
 
 **Today's Progress**: Debugging Errors, Code Refactoring, Using the Debugger
 
+
+## Day 14: December 16, 2020
+
+
+**Today's Progress**: Higher Lower game of Celebrities Based on Instagram followers count
+
+**Link to work:** [Higher Lower](https://repl.it/@seshaihari/higher-lower-start#main.py)
+
