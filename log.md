@@ -109,3 +109,11 @@
 
 **Link to work:** [Higher Lower](https://repl.it/@seshaihari/higher-lower-start#main.py)
 
+
+## Day 15: December 17, 2020
+
+
+**Today's Progress**: Coffee Machine Simulator in CLI
+
+**Link to work:** [Coffee Machine Simulator](https://repl.it/@seshaihari/coffee-machine-final#main.py)
+
