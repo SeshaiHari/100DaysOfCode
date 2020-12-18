@@ -117,3 +117,11 @@
 
 **Link to work:** [Coffee Machine Simulator](https://repl.it/@seshaihari/coffee-machine-final#main.py)
 
+
+## Day 16: December 18, 2020
+
+
+**Today's Progress**: Redifined the Coffee Machine Simulator using OOP Concepts
+
+**Link to work:** [OOP Coffee Machine Simulator](https://repl.it/@seshaihari/oop-coffee-machine-start#main.py)
+
