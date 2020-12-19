@@ -125,3 +125,11 @@
 
 **Link to work:** [OOP Coffee Machine Simulator](https://repl.it/@seshaihari/oop-coffee-machine-start#main.py)
 
+
+## Day 17: December 19, 2020
+
+
+**Today's Progress**: A Quiz Game using OOP Concepts in CLI
+
+**Link to work:** [OOP Quiz Game](https://repl.it/@seshaihari/quiz-game-start#main.py)
+
