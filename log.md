@@ -133,3 +133,11 @@
 
 **Link to work:** [OOP Quiz Game](https://repl.it/@seshaihari/quiz-game-start#main.py)
 
+
+## Day 18: December 20, 2020
+
+
+**Today's Progress**: Explored the Turtle Library, Programed a Hirst Painting using Turtle library
+
+**Link to work:** [Hirst Painting](https://repl.it/@seshaihari/hirst-painting-start#main.py)
+
