@@ -141,3 +141,11 @@
 
 **Link to work:** [Hirst Painting](https://repl.it/@seshaihari/hirst-painting-start#main.py)
 
+
+## Day 19: December 21, 2020
+
+
+**Today's Progress**: Learned about Instances, States and Higher Order Functions and programmed a Turtle Race Game
+
+**Link to work:** [Turtle Race](https://repl.it/@seshaihari/turtle-race#main.py)
+
