@@ -149,3 +149,11 @@
 
 **Link to work:** [Turtle Race](https://repl.it/@seshaihari/turtle-race#main.py)
 
+
+## Day 20: December 22, 2020
+
+
+**Today's Progress**: Started to Program the OG Snake game in python using Turtle Library. Created a snake body, Made the snake Move, Abled to control the snake movement
+
+
+
