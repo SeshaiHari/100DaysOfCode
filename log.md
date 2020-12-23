@@ -156,4 +156,12 @@
 **Today's Progress**: Started to Program the OG Snake game in python using Turtle Library. Created a snake body, Made the snake Move, Abled to control the snake movement
 
 
+## Day 21: December 23, 2020
+
+
+**Today's Progress**: Completed coding the Snake Game. Able to detect collision with food, Created a scoreboard, Able to detect the collision with wall and its tail.
+
+**Link to work:** [Snake Game](https://repl.it/@seshaihari/snake-game-final#main.py)
+
+
 
