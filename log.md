@@ -164,4 +164,12 @@
 **Link to work:** [Snake Game](https://repl.it/@seshaihari/snake-game-final#main.py)
 
 
+## Day 22: December 24, 2020
+
+
+**Today's Progress**: Programmed the OG Pong Game in CLI using Turtle Library with Score counter. 
+
+**Link to work:** [Pong Game](https://repl.it/@seshaihari/pong-game-final#main.py)
+
+
 
