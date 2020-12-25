@@ -172,4 +172,12 @@
 **Link to work:** [Pong Game](https://repl.it/@seshaihari/pong-game-final#main.py)
 
 
+## Day 23: December 25, 2020
+
+
+**Today's Progress**: Programmed the Turtle Crossing Game in CLI using the Turtle Library.
+
+**Link to work:** [Turtle Crossing Game](https://repl.it/@seshaihari/turtle-crossing-game#main.py)
+
+
 
