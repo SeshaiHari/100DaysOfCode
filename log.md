@@ -180,4 +180,12 @@
 **Link to work:** [Turtle Crossing Game](https://repl.it/@seshaihari/turtle-crossing-game#main.py)
 
 
+## Day 24: December 26, 2020
+
+
+**Today's Progress**: Learned about Files, Directories, Relative vs Absolute Path
+
+**Link to work:** [Mail Merge Project](https://repl.it/@seshaihari/mail-merge-project-start#main.py)
+
+
 
