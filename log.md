@@ -188,4 +188,13 @@
 **Link to work:** [Mail Merge Project](https://repl.it/@seshaihari/mail-merge-project-start#main.py)
 
 
+## Day 25: December 27, 2020
+
+
+**Today's Progress**: Learned about Pandas Library, Working With CSV Files, Progammed a Game to Guess the U.S States
+
+**Link to work:** [US States Guess Game](https://repl.it/@seshaihari/us-states-game-start#main.py)
+
+
+
 
