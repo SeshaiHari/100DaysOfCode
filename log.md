@@ -196,5 +196,12 @@
 **Link to work:** [US States Guess Game](https://repl.it/@seshaihari/us-states-game-start#main.py)
 
 
+## Day 26: December 28, 2020
+
+
+**Today's Progress**: Learned about List Comprehension, Dictionary Comprehension, Progmmaed a NATO alphabet Generator
+**Link to work:** [NATO Alphabet Generator](https://repl.it/@seshaihari/NATO-alphabet-start#main.py)
+
+
 
 
