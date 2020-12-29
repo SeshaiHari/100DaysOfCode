@@ -200,6 +200,7 @@
 
 
 **Today's Progress**: Learned about List Comprehension, Dictionary Comprehension, Progmmaed a NATO alphabet Generator
+
 **Link to work:** [NATO Alphabet Generator](https://repl.it/@seshaihari/NATO-alphabet-start#main.py)
 
 
