@@ -212,4 +212,12 @@
 **Link to work:** [Miles to Kilo Converter](https://repl.it/@seshaihari/mile-to-kilo-converter#main.py)
 
 
+## Day 28: December 30, 2020
+
+
+**Today's Progress**: Learned about Dynamic Typing in Tkinter, Created a Pomodoro Clock App using Tkinter Library in Python
+
+**Link to work:** [Pomodoro Clock Timer](https://repl.it/@seshaihari/pomodoro-start#main.py)
+
+
 
