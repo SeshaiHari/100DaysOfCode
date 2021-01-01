@@ -223,9 +223,17 @@
 ## Day 29: December 31, 2020
 
 
-**Today's Progress**: Built a Password Manager App with GUI using Tkinter Library in Pyhon
+**Today's Progress**: Built a Password Manager App with GUI using Tkinter Library in Python
 
 **Link to work:** [Password Manager App](https://repl.it/@seshaihari/password-manager-start#main.py)
+
+
+## Day 30: January 1, 2021
+
+
+**Today's Progress**: Improvised the Password Manager App using Try and Except Block and exporting in JSON using Python
+
+**Link to work:** [Password Manager App - Improvised](https://repl.it/@seshaihari/password-manager-improvised#main.py)
 
 
 
