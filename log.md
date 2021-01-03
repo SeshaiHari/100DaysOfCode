@@ -244,5 +244,12 @@
 **Link to work:** [Flash Card App](https://repl.it/@seshaihari/flash-card-project-start#main.py)
 
 
+## Day 32: January 3, 2021
+
+
+**Today's Progress**: Built a Automated Happy Birthday Email Program
+
+**Link to work:** [Birthday Wisher Aoo](https://repl.it/@seshaihari/birthday-wisher-normal-start#main.py)
+
 
 
