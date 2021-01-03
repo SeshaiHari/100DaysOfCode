@@ -236,4 +236,13 @@
 **Link to work:** [Password Manager App - Improvised](https://repl.it/@seshaihari/password-manager-improvised#main.py)
 
 
+## Day 31: January 2, 2021
+
+
+**Today's Progress**: Built a Flash Card App using Tkinter Library in Python
+
+**Link to work:** [Flash Card App](https://repl.it/@seshaihari/flash-card-project-start#main.py)
+
+
+
 
