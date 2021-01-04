@@ -252,4 +252,15 @@
 **Link to work:** [Birthday Wisher Aoo](https://repl.it/@seshaihari/birthday-wisher-normal-start#main.py)
 
 
+## Day 33: January 4, 2021
+
+
+**Today's Progress**: Learnt About API, API Endpoints, API Parameters, Built a Kanye Quote Generator Using kanye.rest API, Built a ISS overhead notifier using ISS API
+
+**Link to work:** [Kanye Quotes](https://repl.it/@seshaihari/kanye-quotes-start#main.py)
+**Link to work:** [ISS Overhead](https://repl.it/@seshaihari/issoverhead-start#main.py)
+
+
+
+
 
