@@ -269,6 +269,14 @@
 **Link to work:** [Quizler App](https://repl.it/@seshaihari/quizzler-app-start#ui.py)
 
 
+## Day 35: January 6, 2021
+
+
+**Today's Progress**: Built a Habit Tracker app using Python and Pixela API
+
+**Link to work:** [Habit Tracker](https://repl.it/@seshaihari/habit-tracker#main.py)
+
+
 
 
 
