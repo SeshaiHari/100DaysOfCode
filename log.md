@@ -277,6 +277,14 @@
 **Link to work:** [Habit Tracker](https://repl.it/@seshaihari/habit-tracker#main.py)
 
 
+## Day 36: January 7, 2021
+
+
+**Today's Progress**: Build a Stock News Notification App, which notifies the status of Tesla's Stock everyday/
+
+**Link to work:** [Tesla Stock News App](https://repl.it/@seshaihari/stock-news-normal-start#main.py)
+
+
 
 
 
