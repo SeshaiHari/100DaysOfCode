@@ -280,9 +280,17 @@
 ## Day 36: January 7, 2021
 
 
-**Today's Progress**: Build a Stock News Notification App, which notifies the status of Tesla's Stock everyday/
+**Today's Progress**: Built a Stock News Notification App, which notifies the status of Tesla's Stock everyday/
 
 **Link to work:** [Tesla Stock News App](https://repl.it/@seshaihari/stock-news-normal-start#main.py)
+
+
+## Day 37: January 8, 2021
+
+
+**Today's Progress**: Built a Workout Trakcer using Google Sheets(Sheety API) and Nutritionix API in Python
+
+**Link to work:** [Workout Tracker](https://repl.it/@seshaihari/workout-tracker#main.py)
 
 
 
