@@ -301,6 +301,13 @@
 **Link to work:** [Flight Deals App](https://repl.it/@seshaihari/flight-deals-end#flight_search.py)
 
 
+## Day 39: January 10, 2021
+
+
+**Today's Progress**: Built a Cheap Flight Finder App using Sheety API, Tequila API, Twilio API in Python
+
+**Link to work:** [Flight Club](https://repl.it/@seshaihari/flight-club-end#notification_manager.py)
+
 
 
 
