@@ -309,6 +309,14 @@
 **Link to work:** [Flight Club](https://repl.it/@seshaihari/flight-club-end#notification_manager.py)
 
 
+## Day 40: January 11, 2021
+
+
+**Today's Progress**: Learnt About how the internet actually works, Basics of HTML (in-depth).
+
+
+
+
 
 
 
