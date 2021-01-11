@@ -293,6 +293,14 @@
 **Link to work:** [Workout Tracker](https://repl.it/@seshaihari/workout-tracker#main.py)
 
 
+## Day 38: January 9, 2021
+
+
+**Today's Progress**: Built a Flight Deal Finder App using Sheety API, Tequila API, Twillio API in Python
+
+**Link to work:** [Flight Deals App](https://repl.it/@seshaihari/flight-deals-end#flight_search.py)
+
+
 
 
 
