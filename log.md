@@ -315,6 +315,13 @@
 **Today's Progress**: Learnt About how the internet actually works, Basics of HTML (in-depth).
 
 
+## Day 41 January 12, 2021
+
+
+**Today's Progress**: Learnt About Intermediate HTML, Designed a Resume Page.
+
+
+
 
 
 
