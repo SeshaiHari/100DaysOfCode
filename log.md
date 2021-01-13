@@ -321,6 +321,12 @@
 **Today's Progress**: Learnt About Intermediate HTML, Designed a Resume Page.
 
 
+## Day 42 January 13, 2021
+
+
+**Today's Progress**: Learnt About Basics of CSS (in-depth).
+
+
 
 
 
