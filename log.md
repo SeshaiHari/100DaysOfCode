@@ -349,6 +349,14 @@
 **Link to work:** [Music Time Machine](https://repl.it/@seshaihari/music-time-machine-end#main.py)
 
 
+## Day 46 January 17, 2021
+
+
+**Today's Progress**: Built a Amazon Price Tracker which sends an email when the price changes using Beautiful Soup library in Python
+
+**Link to work:** [Amazon Price Tracker](https://repl.it/@seshaihari/AmazonPriceTracker#main.py)
+
+
 
 
 
