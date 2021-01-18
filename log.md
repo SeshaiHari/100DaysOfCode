@@ -327,6 +327,14 @@
 **Today's Progress**: Learnt About Basics of CSS (in-depth).
 
 
+## Day 43 January 14, 2021
+
+
+**Today's Progress**: Learnt About Intermediate CSS, Media Queries, Responsive Design
+
+
+
+
 
 
 
