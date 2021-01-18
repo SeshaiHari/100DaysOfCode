@@ -337,8 +337,16 @@
 
 
 **Today's Progress**: Learnt About Web Scraping, Built a Movie title Web Scraper using Beautiful Soup Library
+
 **Link to work:** [Movie Scraper](https://repl.it/@seshaihari/scrape-movies#)
 
+
+## Day 45 January 16, 2021
+
+
+**Today's Progress**: Built a Musical Time Machine, Creates a Playlist in Spotify of Billboard Top 100 in a given date.
+
+**Link to work:** [Music Time Machine](https://repl.it/@seshaihari/music-time-machine-end#main.py)
 
 
 
