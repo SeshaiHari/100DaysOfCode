@@ -333,6 +333,13 @@
 **Today's Progress**: Learnt About Intermediate CSS, Media Queries, Responsive Design
 
 
+## Day 44 January 15, 2021
+
+
+**Today's Progress**: Learnt About Web Scraping, Built a Movie title Web Scraper using Beautiful Soup Library
+**Link to work:** [Movie Scraper](https://repl.it/@seshaihari/scrape-movies#)
+
+
 
 
 
