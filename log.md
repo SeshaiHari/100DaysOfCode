@@ -357,6 +357,15 @@
 **Link to work:** [Amazon Price Tracker](https://repl.it/@seshaihari/AmazonPriceTracker#main.py)
 
 
+## Day 47 January 18, 2021
+
+
+**Today's Progress**: Learnt about the Selenuim Framwework, Built a Python program to click as many cookies as possible in http://orteil.dashnet.org/experiments/cookie/ using Selenium Framework
+
+**Link to work:** [Cookie Clicker](https://repl.it/@seshaihari/CookieClicker#main.py)
+
+
+
 
 
 
