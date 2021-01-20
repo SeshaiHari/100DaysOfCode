@@ -315,25 +315,25 @@
 **Today's Progress**: Learnt About how the internet actually works, Basics of HTML (in-depth).
 
 
-## Day 41 January 12, 2021
+## Day 41: January 12, 2021
 
 
 **Today's Progress**: Learnt About Intermediate HTML, Designed a Resume Page.
 
 
-## Day 42 January 13, 2021
+## Day 42: January 13, 2021
 
 
 **Today's Progress**: Learnt About Basics of CSS (in-depth).
 
 
-## Day 43 January 14, 2021
+## Day 43: January 14, 2021
 
 
 **Today's Progress**: Learnt About Intermediate CSS, Media Queries, Responsive Design
 
 
-## Day 44 January 15, 2021
+## Day 44: January 15, 2021
 
 
 **Today's Progress**: Learnt About Web Scraping, Built a Movie title Web Scraper using Beautiful Soup Library
@@ -341,7 +341,7 @@
 **Link to work:** [Movie Scraper](https://repl.it/@seshaihari/scrape-movies#)
 
 
-## Day 45 January 16, 2021
+## Day 45: January 16, 2021
 
 
 **Today's Progress**: Built a Musical Time Machine, Creates a Playlist in Spotify of Billboard Top 100 in a given date.
@@ -349,7 +349,7 @@
 **Link to work:** [Music Time Machine](https://repl.it/@seshaihari/music-time-machine-end#main.py)
 
 
-## Day 46 January 17, 2021
+## Day 46: January 17, 2021
 
 
 **Today's Progress**: Built a Amazon Price Tracker which sends an email when the price changes using Beautiful Soup library in Python
@@ -357,12 +357,21 @@
 **Link to work:** [Amazon Price Tracker](https://repl.it/@seshaihari/AmazonPriceTracker#main.py)
 
 
-## Day 47 January 18, 2021
+## Day 47: January 18, 2021
 
 
 **Today's Progress**: Learnt about the Selenuim Framwework, Built a Python program to click as many cookies as possible in http://orteil.dashnet.org/experiments/cookie/ using Selenium Framework
 
 **Link to work:** [Cookie Clicker](https://repl.it/@seshaihari/CookieClicker#main.py)
+
+
+## Day 48: January 19, 2021
+
+
+**Today's Progress**: Built a Automated Job Application Bot for LinkedIn using Python and Selenium Framework
+**Link to work:** [LinkedIn Job Application Automate Bot](https://repl.it/@seshaihari/AutoLinkedInJob#main.py)
+
+
 
 
 
