@@ -372,6 +372,13 @@
 **Link to work:** [LinkedIn Job Application Automate Bot](https://repl.it/@seshaihari/AutoLinkedInJob#main.py)
 
 
+## Day 49: January 20, 2021
+
+
+**Today's Progress**: Built a Automated Twitter Bot which Complains to the ISP if the internet connection is low than the promissed speed.
+**Link to work:** [Twitter Complain Bot](https://repl.it/@seshaihari/TwitterComplainBot#main.py)
+
+
 
 
 
