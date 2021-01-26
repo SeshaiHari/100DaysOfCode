@@ -403,6 +403,14 @@
 **Today's Progress**: Learnt About Flask Framework Basics
 
 
+## Day 53: January 24, 2021
+
+
+**Today's Progress**: Learnt about Flask URL Paths, Debugger, Python Decorators. Built a higher-lower game using Flask in Python
+
+**Link to work:** [Higher Lower Game](https://repl.it/@seshaihari/higher-lower#main.py)
+
+
 
 
 
