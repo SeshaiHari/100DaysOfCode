@@ -411,7 +411,7 @@
 **Link to work:** [Higher Lower Game](https://repl.it/@seshaihari/higher-lower#main.py)
 
 
-## Day 54: January 24, 2021
+## Day 54: January 25, 2021
 
 
 **Today's Progress**: Learnt Flask Render Templates, HTTP Methods, Static Files. Built a Small Name Card using Flask in Python.
