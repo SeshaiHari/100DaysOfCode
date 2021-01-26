@@ -397,7 +397,10 @@
 **Link to work:** [Data Entry Job Automation Bot](https://repl.it/@seshaihari/DataEntryJobAutomation#main.py)
 
 
+## Day 52: January 23, 2021
 
+
+**Today's Progress**: Learnt About Flask Framework Basics
 
 
 
