@@ -369,6 +369,7 @@
 
 
 **Today's Progress**: Built a Automated Job Application Bot for LinkedIn using Python and Selenium Framework
+
 **Link to work:** [LinkedIn Job Application Automate Bot](https://repl.it/@seshaihari/AutoLinkedInJob#main.py)
 
 
@@ -376,8 +377,16 @@
 
 
 **Today's Progress**: Built a Automated Twitter Bot which Complains to the ISP if the internet connection is low than the promissed speed.
+
 **Link to work:** [Twitter Complain Bot](https://repl.it/@seshaihari/TwitterComplainBot#main.py)
 
+
+## Day 50: January 21, 2021
+
+
+**Today's Progress**: Built a Instagram Follower Bot, which follows all the followers from a given page.
+
+**Link to work:** [Instagram Follower Bot](https://repl.it/@seshaihari/instagramFollowerBot#main.py)
 
 
 
