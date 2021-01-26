@@ -389,6 +389,15 @@
 **Link to work:** [Instagram Follower Bot](https://repl.it/@seshaihari/instagramFollowerBot#main.py)
 
 
+## Day 51: January 22, 2021
+
+
+**Today's Progress**: Built a Data Entry Job Automation Bot, It automatically scrapes data from the desired websites and fills Forms using Selenium in Python
+
+**Link to work:** [Data Entry Job Automation Bot](https://repl.it/@seshaihari/DataEntryJobAutomation#main.py)
+
+
+
 
 
 
