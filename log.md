@@ -417,6 +417,14 @@
 **Today's Progress**: Learnt Flask Render Templates, HTTP Methods, Static Files. Built a Small Name Card using Flask in Python.
 
 
+## Day 55: January 25, 2021
+
+
+**Today's Progress**: Learnt about Templating with Jinja in Flask. Built a simple blog template using Flask
+
+**Link to work:** [Blog Template](https://repl.it/@seshaihari/blog-templating-start#main.py)
+
+
 
 
 
