@@ -425,6 +425,12 @@
 **Link to work:** [Blog Template](https://repl.it/@seshaihari/blog-templating-start#main.py)
 
 
+## Day 56: January 26, 2021
+
+
+**Today's Progress**: Learnt About Bootstrap Library for building websites.
+
+
 
 
 
