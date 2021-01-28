@@ -431,6 +431,13 @@
 **Today's Progress**: Learnt About Bootstrap Library for building websites.
 
 
+## Day 57: January 27, 2021
+
+
+**Today's Progress**: Built a Local Blog Website using Flask, Bootstrap with Flask in Python.
+
+
+
 
 
 
