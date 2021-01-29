@@ -443,6 +443,14 @@
 **Today's Progress**: Learnt how to make a POST request with Flask and HTML Forms. Completed the Contact page of the blog to send me the entered data as email.
 
 
+## Day 59: January 29, 2021
+
+
+**Today's Progress**: Learnt about WTForms in Flask, Built a Basic Login Page with WTForms in Flask using Python
+
+**Link to work:** [WTForms Login Page - Flask](https://repl.it/@seshaihari/flask-wtforms)
+
+
 
 
 
