@@ -437,6 +437,12 @@
 **Today's Progress**: Built a Local Blog Website using Flask, Bootstrap with Flask in Python.
 
 
+## Day 58: January 28, 2021
+
+
+**Today's Progress**: Learnt how to make a POST request with Flask and HTML Forms. Completed the Contact page of the blog to send me the entered data as email.
+
+
 
 
 
