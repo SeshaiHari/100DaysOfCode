@@ -425,25 +425,25 @@
 **Link to work:** [Blog Template](https://repl.it/@seshaihari/blog-templating-start#main.py)
 
 
-## Day 56: January 26, 2021
+## Day 56: January 27, 2021
 
 
 **Today's Progress**: Learnt About Bootstrap Library for building websites.
 
 
-## Day 57: January 27, 2021
+## Day 57: January 28, 2021
 
 
 **Today's Progress**: Built a Local Blog Website using Flask, Bootstrap with Flask in Python.
 
 
-## Day 58: January 28, 2021
+## Day 58: January 29, 2021
 
 
 **Today's Progress**: Learnt how to make a POST request with Flask and HTML Forms. Completed the Contact page of the blog to send me the entered data as email.
 
 
-## Day 59: January 29, 2021
+## Day 59: January 30, 2021
 
 
 **Today's Progress**: Learnt about WTForms in Flask, Built a Basic Login Page with WTForms in Flask using Python
@@ -451,7 +451,7 @@
 **Link to work:** [WTForms Login Page - Flask](https://repl.it/@seshaihari/flask-wtforms)
 
 
-## Day 60: January 30, 2021
+## Day 60: January 31, 2021
 
 
 **Today's Progress**: Build a Coffee & Wifi Website, Display's the list of Coffee shop's where Wifi and Power is available using Flask in Python.
