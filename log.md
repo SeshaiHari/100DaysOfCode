@@ -451,6 +451,14 @@
 **Link to work:** [WTForms Login Page - Flask](https://repl.it/@seshaihari/flask-wtforms)
 
 
+## Day 60: January 30, 2021
+
+
+**Today's Progress**: Build a Coffee & Wifi Website, Display's the list of Coffee shop's where Wifi and Power is available using Flask in Python.
+
+**Link to work:** [Coffee and Wifi](https://repl.it/@seshaihari/day-62-end#main.py)
+
+
 
 
 
