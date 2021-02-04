@@ -459,6 +459,15 @@
 **Link to work:** [Coffee and Wifi](https://repl.it/@seshaihari/day-62-end#main.py)
 
 
+## Day 61: February 1, 2021
+
+
+**Today's Progress**: Learnt to execute SQL in Python using SQLAlchemy Library, Built a Virtual Bookshelf Website using Flask, SQLAlchemy
+
+**Link to work:** [Virtual Bookshelf](https://repl.it/@seshaihari/library-project-end#main.py)
+
+
+
 
 
 
