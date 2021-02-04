@@ -467,6 +467,13 @@
 **Link to work:** [Virtual Bookshelf](https://repl.it/@seshaihari/library-project-end#main.py)
 
 
+## Day 62: February 2, 2021
+
+
+**Today's Progress**: Built a Top 10 Movie List site using TMDB API, Flask, WTForms, SQLAlchemy in Python.
+
+**Link to work:** [Movie Project](https://repl.it/@seshaihari/movie-project-end#main.py)
+
 
 
 
