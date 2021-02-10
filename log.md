@@ -489,6 +489,13 @@
 **Today's Progress**: Learnt About DART data types, Scaffold Widget in Flutter
 
 
+## Day 65: February 5, 2021
+
+
+**Today's Progress**: Learnt About Functions, CLasses, Routes, Themes and Text in Flutter
+
+
+
 
 
 
