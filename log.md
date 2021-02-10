@@ -483,6 +483,14 @@
 **Link to work:** [Cafe API](https://repl.it/@seshaihari/cafe-api-end#main.py)
 
 
+## Day 64: February 4, 2021
+
+
+**Today's Progress**: Learnt About DART data types, Scaffold Widget in Flutter
+
+
+
+
 
 
 
