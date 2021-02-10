@@ -495,6 +495,11 @@
 **Today's Progress**: Learnt About Functions, CLasses, Routes, Themes and Text in Flutter
 
 
+## Day 66: February 6, 2021
+
+
+**Today's Progress**: Learnt About Adding Images, Google Fonts, Elevated Button in Flutter, Built a Basic Login Page in Flutter.
+
 
 
 
