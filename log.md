@@ -475,6 +475,15 @@
 **Link to work:** [Movie Project](https://repl.it/@seshaihari/movie-project-end#main.py)
 
 
+## Day 63: February 3, 2021
+
+
+**Today's Progress**: Built REST API using Flask in Python, Started to Learn About Flutter, Created a Startup Name Generator App using Flutter.
+
+**Link to work:** [Cafe API](https://repl.it/@seshaihari/cafe-api-end#main.py)
+
+
+
 
 
 
