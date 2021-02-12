@@ -501,6 +501,14 @@
 **Today's Progress**: Learnt About Adding Images, Google Fonts, Elevated Button in Flutter, Built a Basic Login Page in Flutter.
 
 
+## Day 67: February 7, 2021
+
+
+**Today's Progress**: Learnt About Authentication with Flask, Learnt About Single Child Scroll View and Navigator in Flutter. Build a Simple Login Authenticator using Authentication in Flask in Python.
+
+**Link to work:** [Flask Authentication](https://repl.it/@seshaihari/flask-auth-end#main.py)
+
+
 
 
 
