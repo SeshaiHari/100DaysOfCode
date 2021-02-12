@@ -515,6 +515,12 @@
 **Today's Progress**: Learnt About Stateful, Animated Container, Future Delay Widget in Flutter 
 
 
+## Day 69: February 9, 2021
+
+
+**Today's Progress**: Learnt About Form,TextField Validation, Link Widget in Flutter 
+
+
 
 
 
