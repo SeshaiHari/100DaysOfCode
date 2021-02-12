@@ -509,6 +509,11 @@
 **Link to work:** [Flask Authentication](https://repl.it/@seshaihari/flask-auth-end#main.py)
 
 
+## Day 68: February 8, 2021
+
+
+**Today's Progress**: Learnt About Stateful, Animated Container, Future Delay Widget in Flutter 
+
 
 
 
