@@ -521,6 +521,11 @@
 **Today's Progress**: Learnt About Form,TextField Validation, Link Widget in Flutter 
 
 
+## Day 70: February 23, 2021
+
+
+**Today's Progress**: Learnt Data Exploration with Pandas using a College Major Salary Dataset.
+
 
 
 
